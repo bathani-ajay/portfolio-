@@ -12,7 +12,7 @@ function myFunction() {
     document.querySelector('.nav-full').classList.add("sticky");
     // mheader.classList.add("sticky");
   } else {
-    // document.querySelector('.nav-full').classList.remove("sticky");
+     document.querySelector('.nav-full').classList.remove("sticky");
   }
 }
 let hamburger =  document.querySelector('.hamburger');
